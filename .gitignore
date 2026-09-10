@@ -1,0 +1,12 @@
+# Директорії компіляції та білда
+build/
+bin/
+obj/
+out/
+target/
+cmake-build-*/
+
+# Тимчасові файли редакторів
+.vs/
+.vscode/
+.idea/
